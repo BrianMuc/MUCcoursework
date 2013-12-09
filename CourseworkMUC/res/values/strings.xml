@@ -4,5 +4,8 @@
     <string name="app_name">CourseworkMUC</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="map_Type">Map Type</string>
+    <string name="user_Location">User Location</string>
+    <string name="check_box_map">Show Location</string>
 
 </resources>
